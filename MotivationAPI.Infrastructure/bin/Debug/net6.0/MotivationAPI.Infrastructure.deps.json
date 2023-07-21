@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MotivationAPI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MotivationAPI.Core": "1.0.0"
+        },
+        "runtime": {
+          "MotivationAPI.Infrastructure.dll": {}
+        }
+      },
+      "MotivationAPI.Core/1.0.0": {
+        "runtime": {
+          "MotivationAPI.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MotivationAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MotivationAPI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
